@@ -26,7 +26,8 @@ usage: git_cloner.py [-h] [--working_directory WORKING_DIRECTORY] [--data_direct
 - \`--depth DEPTH\`: Depth of commits to clone (default is all).
 
 ## Video Demonstration
-You can watch a video demonstration of how to use GitCloner ![Watch the video](https://github.com/ma4747gh/GitCloner/raw/main/GitCloner.ogv).
+You can watch a video demonstration of how to use GitCloner.
+https://github.com/ma4747gh/GitCloner/assets/138609141/4235a95a-52bd-4cc1-9b7a-ca7ffa0641a3
 
 ## Author
 Coded by Mohamed Ahmed (ma4747gh).
