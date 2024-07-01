@@ -12,22 +12,25 @@ usage: git_cloner.py [-h] [--working_directory WORKING_DIRECTORY] [--data_direct
 ```
 
 ### Positional Argument:
-- \`target_url\`: URL of the target web application (e.g., http(s)://www\.example\.com/).
+- `target_url`: URL of the target web application (e.g., http(s)://www\.example\.com/).
 
 ### Options:
-- \`-h, --help\`: Show the help message and exit.
-- \`--working_directory WORKING_DIRECTORY\`: Specify the name of the working directory where the '.git' files will be downloaded. Default is 'working_directory'.
-- \`--data_directory DATA_DIRECTORY\`: Specify the name of the data directory where the actual files will be downloaded. Default is 'data_directory'.
-- \`--white_list_extensions [WHITE_LIST_EXTENSIONS ...]\`: List of allowed file extensions to download (e.g., html js php).
-- \`--interactive_cli\`: Enable interactive command line interface (default: False).
-- \`--read_only\`: Enable read-only mode (default: False). Only available when \`--interactive_cli\` is enabled.
-- \`--disable_highlighting\`: Disable highlighting mode (default: False). Only available when \`--read_only\` is enabled.
-- \`--style_mode {0,1}\`: Set the style mode 0 or 1 (default: 0). Only available when \`--interactive_cli\` is enabled.
-- \`--depth DEPTH\`: Depth of commits to clone (default is all).
+- `-h, --help`: Show the help message and exit.
+- `--working_directory WORKING_DIRECTORY`: Specify the name of the working directory where the '.git' files will be downloaded. Default is 'working_directory'.
+- `--data_directory DATA_DIRECTORY`: Specify the name of the data directory where the actual files will be downloaded. Default is 'data_directory'.
+- `--white_list_extensions [WHITE_LIST_EXTENSIONS ...]`: List of allowed file extensions to download (e.g., html js php).
+- `--interactive_cli`: Enable interactive command line interface (default: False).
+- `--read_only`: Enable read-only mode (default: False). Only available when `--interactive_cli` is enabled.
+- `--disable_highlighting`: Disable highlighting mode (default: False). Only available when `--read_only` is enabled.
+- `--style_mode {0,1}`: Set the style mode 0 or 1 (default: 0). Only available when `--interactive_cli` is enabled.
+- `--depth DEPTH`: Depth of commits to clone (default is all).
 
 ## Video Demonstration
 You can watch a video demonstration of how to use GitCloner.
+
 https://github.com/ma4747gh/GitCloner/assets/138609141/4235a95a-52bd-4cc1-9b7a-ca7ffa0641a3
 
 ## Author
-Coded by Mohamed Ahmed (ma4747gh).
+Coded by Mohamed Ahmed (ma4747gh).  
+My GitHub account: https://github.com/ma4747gh  
+My LinkedIn account: https://eg.linkedin.com/in/ma4747gh
