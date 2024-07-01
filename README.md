@@ -12,7 +12,7 @@ usage: git_cloner.py [-h] [--working_directory WORKING_DIRECTORY] [--data_direct
 ```
 
 ### Positional Argument:
-- `target_url`: URL of the target web application (e.g., http(s)://www\.example\.com/).
+- `target_url`: URL of the target web application (e.g., http(s):\/\/www\.example\.com/).
 
 ### Options:
 - `-h, --help`: Show the help message and exit.
